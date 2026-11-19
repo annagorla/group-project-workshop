@@ -18,26 +18,26 @@ Ogni elemento può essere ripetuto (valori multipli) o lasciato vuoto.
 
 | Element | Definition |  Your object |
 |---|---|---|
-| `title` | A name given to the resource. | ? |
-| `creator` | An entity responsible for making the resource. | ? |
-| `date` | A point or period of time associated with an event in the lifecycle of the resource. | ? |
-| `type` | The nature or genre of the resource. | ? |
-| `subject` | A topic of the resource. | ? |
-| `identifier` | An unambiguous reference to the resource within a given context. | ? |
+| `title` | A name given to the resource. | Concetto Spaziale |
+| `creator` | An entity responsible for making the resource. | Lucio Fontana |
+| `date` | A point or period of time associated with an event in the lifecycle of the resource. | 1961 |
+| `type` | The nature or genre of the resource. | artwork |
+| `subject` | A topic of the resource. | oil and holes on yellow painted canvas |
+| `identifier` | An unambiguous reference to the resource within a given context. | Buchi series |
 
 ### Optional core elements
 
 | Element | Definition | Your object |
 |---|---|---|
-| `description` | An account of the resource. | ? |
-| `publisher` | An entity responsible for making the resource available. | ? |
-| `contributor` | An entity responsible for making contributions to the resource. | ? |
-| `format` | The file format, physical medium, or dimensions of the resource. | ? |
-| `source` | A related resource from which the described resource is derived. | ? |
-| `language` | A language of the resource. | ? |
-| `relation` | A related resource. | ? |
-| `coverage` | The spatial or temporal topic of the resource, spatial applicability of the resource, or jurisdiction under which the resource is relevant. | ? |
-| `rights` | Information about rights held in and over the resource. | ? |
+| `description` | An account of the resource. | yellow and white painted canvas with holes in a part of the shape delineated |
+| `publisher` | An entity responsible for making the resource available. | Fondazione Lucio Fontana |
+| `contributor` | An entity responsible for making contributions to the resource. | Ugo Mulas, fotografo |
+| `format` | The file format, physical medium, or dimensions of the resource. | JPEG |
+| `source` | A related resource from which the described resource is derived. | Buchi (1949-1968) |
+| `language` | A language of the resource. | painting, no language |
+| `relation` | A related resource. | Concetti Spaziali, series of paintings made from 1949 to 1968 |
+| `coverage` | The spatial or temporal topic of the resource, spatial applicability of the resource, or jurisdiction under which the resource is relevant. | 1949-68 |
+| `rights` | Information about rights held in and over the resource. | Ugo Mulas and his heirloms |
 
 ### Dopo averlo compilato
 
